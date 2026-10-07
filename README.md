@@ -8,7 +8,7 @@
 * **Arthur Tae** — RM 570647
 
 ---
-[CP2 de MLAM](https://colab.research.google.com/drive/1sW1YLFPacDV_b9hneCwUmMtoTyC82ugF?usp=sharing))
+[CP2 de MLAM](https://colab.research.google.com/drive/1sW1YLFPacDV_b9hneCwUmMtoTyC82ugF?usp=sharing)
 ---
 
 ## Visão Geral do Projeto
