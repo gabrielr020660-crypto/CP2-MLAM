@@ -57,6 +57,6 @@ Foi implementado um modelo de **Regressão Linear Simples** usando a biblioteca 
 
 ---
 
-## 📝 Dificuldades e Conclusões
+## Dificuldades e Conclusões
 * **Dificuldades encontradas:** Integrar bases com frequências temporais distintas (trimestral no PIB e mensal na ABCR) exigiu padronizar ambas para médias anuais. A queda pontual no tráfego durante o período pandêmico (2020) também gerou um pequeno desvio temporário em relação ao comportamento padrão.
 * **Conclusão:** O modelo demonstrou alto poder explicativo ($R^2 \approx 0.94$), confirmando que a movimentação de veículos nas estradas acompanha diretamente o desempenho e o aquecimento da economia do país.
