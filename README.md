@@ -1,4 +1,4 @@
-# Checkpoint 02 — Machine Learning & Applied Mathematics (MLAM)
+# Checkpoint 02 — MLAM
 
 ## Integrantes do Grupo
 * **Gabriel Rodrigues** — RM: 569322
@@ -6,6 +6,9 @@
 * **Lucas Angelo** — RM 569530
 * **Gustavo de Souza** — RM 570746
 * **Arthur Tae** — RM 570647
+
+---
+[CP2 de MLAM]([docs/sobre.md](https://colab.research.google.com/drive/1sW1YLFPacDV_b9hneCwUmMtoTyC82ugF?usp=sharing))
 ---
 
 ## Visão Geral do Projeto
